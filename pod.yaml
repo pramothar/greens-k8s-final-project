@@ -1,5 +1,3 @@
-Dockerfile  form.html  main.py  pod.yaml  requirements.txt
-ubuntu@ip-172-31-16-125:~/devfolder$ vi pod.yaml
 apiVersion: v1
 kind: Service
 metadata:
